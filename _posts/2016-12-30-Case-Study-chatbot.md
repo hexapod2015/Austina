@@ -3,7 +3,7 @@ layout:     post
 title:      "Case Study：移动端落地页设计-对话式界面设计"
 date:       2016-01-01 12:00:00
 author:     "Austina W"
-header-img: "img/post-case-study2.png"
+header-img: "img/bg.png.png"
 catalog:    true
 tags:
     - 作品集

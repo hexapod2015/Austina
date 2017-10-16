@@ -3,7 +3,7 @@ layout:     post
 title:      "Case Study：企业官网设计-车慧官网"
 date:       2017-05-18 12:00:00
 author:     "Austina W"
-header-img: "img/post-case-study2.png"
+header-img: "img/bg.png.png"
 catalog:    true
 tags:
     - 作品集
