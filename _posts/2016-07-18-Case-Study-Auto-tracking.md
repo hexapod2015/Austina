@@ -3,7 +3,7 @@ layout:     post
 title:      "Case Study：数据产品-Auto tracking"
 date:       2016-01-01 12:00:00
 author:     "Austina W"
-header-img: "img/post-case-study-at.png"
+header-img: "img/bg.png"
 catalog:    true
 tags:
     - 作品集
