@@ -3,7 +3,7 @@ layout:     post
 title:      "Case Study：广告产品-易车流量交易系统"
 date:       2016-10-01 12:00:00
 author:     "Austina W"
-header-img: "img/bg.png.png"
+header-img: "img/bg.png"
 header-mask: 0.3
 tags:
 
