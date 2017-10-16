@@ -49,7 +49,7 @@ Auto tracking是一款网站流量监测与数据分析的数据产品。V2.2版
 
 前期通过 **桌面资料 、竞品分析以及用户故事收集**，以了解用户的基本工作流程以及用户行为。根据调研结果产出了多角色的**任务流程图**。
 
-![用户任务流程图](http://omqsjp4nk.bkt.clouddn.com/AT-%E4%B8%9A%E5%8A%A1%E6%B5%81%E7%A8%8B%E5%9B%BE.jpg)
+![用户任务流程图](http://omqsjp4nk.bkt.clouddn.com/%E4%B8%9A%E5%8A%A1%E6%B5%81%E7%A8%8B%E5%9B%BE.jpg)
 
 ##### 信息架构
 

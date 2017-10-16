@@ -46,3 +46,13 @@ tags:
 #### 研究
 
 面对新的对话式的设计模式，所能参考到的设计方法与设计策略比较少，所以在开始之前对chatbot的设计方法进行了学习，翻译了[系列文章](https://hexapod2015.github.io/AustinaBlog/tags/#Chatbot)，用以学习。
+
+
+
+#### 具体设计
+
+![](http://omqsjp4nk.bkt.clouddn.com/Artboard.jpg)
+
+![](http://omqsjp4nk.bkt.clouddn.com/Artboard%202.jpg)
+
+![](http://omqsjp4nk.bkt.clouddn.com/Artboard%203.jpg)
