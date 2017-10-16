@@ -4,7 +4,7 @@ title:      "你的设计团队雇不上文案的时候怎么办？"
 subtitle:   "设计规范"
 date:       2017-07-22 12:00:00
 author:     "Austina W"
-header-img: ""
+header-img: "img/voice-and-tone.jpg"
 header-mask: 0.3
 tags:
 
