@@ -3,7 +3,7 @@ layout:     post
 title:      "一致性原则是条万能法则吗"
 date:       2016-04-21 12:00:00
 author:     "Austina W"
-header-img: "img/consesus.png.jpg"
+header-img: "img/consesus.png"
 header-mask: 0.3
 tags:
     - 设计原则
