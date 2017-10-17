@@ -4,6 +4,7 @@ title:      "Case Study：数据产品-Auto tracking"
 date:       2016-01-01 12:00:00
 author:     "Austina W"
 header-img: "img/bg.png"
+header-mask: 0.1
 catalog:    true
 tags:
     - 作品集
@@ -72,9 +73,10 @@ Auto tracking是一款网站流量监测与数据分析的数据产品。V2.2版
 
 *该部分有我独立完成*
 
-![页面流程图](http://omqsjp4nk.bkt.clouddn.com/%E9%A1%B5%E9%9D%A2%E7%BB%B4%E5%BA%A6@2x.png)
+![页面流程图](http://omqsjp4nk.bkt.clouddn.com/%E9%A1%B5%E9%9D%A2%E7%BB%B4%E5%BA%A62@2x.png)
 
-![页面布局](http://omqsjp4nk.bkt.clouddn.com/%E9%A1%B5%E9%9D%A2%E5%B8%83%E5%B1%80.png)
+![页面布局](http://omqsjp4nk.bkt.clouddn.com/%E9%A1%B5%E9%9D%A2%E5%B8%83%E5%B1%80@2x.png)
+
 
 ##### 交互规范
 
