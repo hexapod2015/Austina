@@ -97,7 +97,7 @@ tags:
 2）根据场景不同，定义不同的维度来处理与展示数据。这也是在做数据产品时，我所学习到的。
 
 - 场景1：在设置广告位排期时，一一对应设置单个广告位的排期。
-![广告位下的dsp排期](http://omqsjp4nk.bkt.clouddn.com/%E8%AE%BE%E7%BD%AE%E6%8E%92%E6%9C%9F.png)
+![广告位下的dsp排期](http://omqsjp4nk.bkt.clouddn.com/%E6%8E%92%E6%9C%9F.png)
 
 - 场景2：在查询广告位排期时，以时间为维度，相关媒介排期人员，对所占用广告位资源一目了然。
 ![订单下的排期表与查看表对比](http://omqsjp4nk.bkt.clouddn.com/%E6%8E%92%E6%9C%9F%E8%AE%A1%E5%88%92.png)
