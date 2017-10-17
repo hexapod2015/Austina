@@ -52,7 +52,7 @@ tags:
 
 #### 具体设计
 
-![](http://omqsjp4nk.bkt.clouddn.com/%E9%80%89%E6%8B%A9%E8%BD%A6%E5%9E%8B-after.jpg)
+![](http://omqsjp4nk.bkt.clouddn.com/Artboard.jpg)
 
 ![](http://omqsjp4nk.bkt.clouddn.com/Artboard%202.jpg)
 
