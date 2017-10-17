@@ -52,8 +52,16 @@ tags:
 
 #### 具体设计
 
+- 减少填写压力，维持自然对话的感觉
+在流程的最开始通过直接点击按钮的方式推进，减少填写压力压力。选择后从下方滑入选择区域，使对话的流程连贯，更倾向于聊天的交互方式。
+
 ![](http://omqsjp4nk.bkt.clouddn.com/Artboard.jpg)
 
+- 为用户填写信息尽可能提供便利
+统一浮层进入模式，根据定位信息获取地点，提供热门城市，便于选择。
+
 ![](http://omqsjp4nk.bkt.clouddn.com/Artboard%202.jpg)
+
+根据字段格式显示对应文本框与键盘，将一个表单拆成多步，更符合使用移动端的习惯。
 
 ![](http://omqsjp4nk.bkt.clouddn.com/Artboard%203.jpg)
