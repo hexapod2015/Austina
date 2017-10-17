@@ -4,6 +4,7 @@ title:      "Case Study：企业官网设计-车慧官网"
 date:       2017-05-18 12:00:00
 author:     "Austina W"
 header-img: "img/bg.png"
+header-mask: 0.1
 catalog:    true
 tags:
     - 作品集
