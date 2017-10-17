@@ -92,7 +92,7 @@ tags:
 
 1）采用递进式的展示展示信息的方式。点击对应链接则跳转到对应列表页，查看详细信息。
 
-![Dashboard](http://omqsjp4nk.bkt.clouddn.com/%E5%8D%A1%E7%89%87.png)
+![Dashboard](http://omqsjp4nk.bkt.clouddn.com/%E9%80%92%E8%BF%9B%E5%BC%8F%E5%B1%95%E7%A4%BA%E6%95%B0%E6%8D%AE.jpg)
 
 2）根据场景不同，定义不同的维度来处理与展示数据。这也是在做数据产品时，我所学习到的。
 
@@ -105,4 +105,4 @@ tags:
 
 3）选择最优的图表形式进行数据可视化。对于数据图表化展示，在这里选用共Y轴的折线图，在有限的空间内尽量多的展示数据与比较数据间的趋势变化，同时可以清晰的看到每个指标的图像变化。
 
-![共y轴折线图](http://omqsjp4nk.bkt.clouddn.com/%E5%85%B1y%E8%BD%B4.png)
+![共y轴折线图](http://omqsjp4nk.bkt.clouddn.com/Dashboard.png)
