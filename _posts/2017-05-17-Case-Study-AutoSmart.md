@@ -108,7 +108,7 @@ tags:
 
 并在之后尝试了一些首页的微交互来增加用户使用的趣味性，以求提高用户滚动浏览的欲望。
 
-![首页demo](http://omqsjp4nk.bkt.clouddn.com/%E9%A6%96%E9%A1%B5Demo.gif)
+![首页demo](http://omqsjp4nk.bkt.clouddn.com/Demo.gif)
 
 ##### 具体设计
 
