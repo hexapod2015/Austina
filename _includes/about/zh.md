@@ -11,4 +11,4 @@ Hi，我是王蓉，一个交互设计师，从实习期间辅助主设完成设
 要挣扎着做个全栈设计师，会出现在[博客](https://hexapod2015.github.io/Austina/)、[知乎](https://www.zhihu.com/people/dang-zi-38)、[lofter](http://vslucky.lofter.com/)等地方，正在努力点亮技能点，开发绝招中。
 
 
-我的作品集请猛戳[这里](https://hexapod2015.github.io/Austina/tags/#作品集)。
+我的作品集请猛戳[这里](https://hexapod2015.github.io/Austina/portfolio/)。
