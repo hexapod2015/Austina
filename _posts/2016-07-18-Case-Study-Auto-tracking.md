@@ -4,7 +4,7 @@ title:      "用数据讲故事 —— Auto Tracking"
 subtitle:   "Case Study"
 date:       2016-01-01 12:00:00
 author:     "Austina W"
-header-img: "img/AT-bg.jpg"
+header-img: "img/at-bg.jpg"
 catalog:    true
 tags:
     - 作品集
