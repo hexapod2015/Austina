@@ -1,10 +1,10 @@
 ---
 layout:     post
-title:      "Case Study：企业官网设计-车慧官网"
+title:      "UX设计方法论大实战 —— 车慧官网"
+subtitle:   "Case Study"
 date:       2017-05-18 12:00:00
 author:     "Austina W"
-header-img: "img/bg.png"
-header-mask: 0.1
+header-img: "img/ux-bg.jpg"
 catalog:    true
 tags:
     - 作品集
