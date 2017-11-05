@@ -1,10 +1,10 @@
 ---
 layout:     post
-title:      "Case Study：数据产品-Auto tracking"
+title:      "用数据讲故事 —— Auto Tracking"
+subtitle:   "Case Study"
 date:       2016-01-01 12:00:00
 author:     "Austina W"
-header-img: "img/bg.png"
-header-mask: 0.1
+header-img: "img/AT-bg.jpg"
 catalog:    true
 tags:
     - 作品集

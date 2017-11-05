@@ -1,10 +1,11 @@
 ---
 layout:     post
-title:      "Case Study：移动端落地页设计-对话式界面设计"
+title:      "当运营设计遇上ChatBot —— 移动端运营设计"
+subtitle:   "Case Study"
 date:       2016-01-01 12:00:00
 author:     "Austina W"
-header-img: "img/bg.png"
-header-mask: 0.1
+header-img: "img/chatbot-bg.jpg"
+
 catalog:    true
 tags:
     - 作品集
@@ -26,7 +27,7 @@ tags:
 
 ### 时间
 
-2016.12-2017.2（因业务调整中断）
+2017.1（因业务调整中断）
 
 
 

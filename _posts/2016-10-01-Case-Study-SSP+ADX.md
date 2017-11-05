@@ -1,10 +1,10 @@
 ---
 layout:     post
-title:      "Case Study：广告产品-易车流量交易系统"
+title:      "从0到1搭建广告交易平台 —— 易车流量交易系统"
+subtitle:   "Case Study"
 date:       2016-10-01 12:00:00
 author:     "Austina W"
-header-img: "img/bg.png"
-header-mask: 0.1
+header-img: "img/SSP-bg.jpg"
 catalog:    true  
 tags:
 
