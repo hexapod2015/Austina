@@ -11,4 +11,4 @@ tags:
     - 运营设计
 ---
 
-![UI-chatbot](http://omqsjp4nk.bkt.clouddn.com/UI-chatbot.png)
+![UI-chatbot](http://omqsjp4nk.bkt.clouddn.com/chatbot.png)
