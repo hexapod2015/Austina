@@ -82,4 +82,4 @@ tags:
 
 通过列表勾选的方式，添加已选城市，支持对各地域独立编辑对应热销车型。
 
-![控件设计](http://omqsjp4nk.bkt.clouddn.com/%E6%8E%A7%E4%BB%B6.jpg)
+![控件设计](http://omqsjp4nk.bkt.clouddn.com/%E7%BA%BF%E6%A1%86%E5%9B%BE.png)
